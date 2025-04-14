@@ -1,5 +1,14 @@
-# Vue 3 + Vite
+# Vue Multi-Step Form
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A clean and accessible multi-step form built using Vue 3, Vue Router, Pinia, and Bootstrap 5.  
+This form demonstrates best practices in routing, state management, validation, theming, testing, and accessibility.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/zahraaahasan96/vue-multi-step-form.git
+cd vue-multi-step-form
