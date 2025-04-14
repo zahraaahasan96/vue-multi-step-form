@@ -1,38 +1,16 @@
-<<<<<<< HEAD
- Getting Started
-1. Clone the Repository
 git clone https://github.com/zahraaahasan96/vue-multi-step-form.git
 cd vue-multi-step-form
 npm install
 npm run dev
 
 
-=======
-# Vue Multi-Step Form
 
-A clean and accessible multi-step form built using Vue 3, Vue Router, Pinia, and Bootstrap 5.  
-This form demonstrates best practices in routing, state management, validation, theming, testing, and accessibility.
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/zahraaahasan96/vue-multi-step-form.git
-cd vue-multi-step-form
-npm install
-npm run dev
-
-
->>>>>>> a441b68ec0dd6dc18dbe4922ec38d2c5b6bc0bfe
 ## 🧾 Documentation
 
 ### 📁 Architecture Overview
 
-The project consists of three form steps located in the `views` folder. Each step is a separate route managed by Vue Router.  
-Form state is managed globally with Pinia, and stored in `localStorage` for persistence between refreshes.
+The project consists of three form steps located in the views folder. Each step is a separate route managed by Vue Router.  
+Form state is managed globally with Pinia, and stored in localStorage for persistence between refreshes.
 
 ---
 
@@ -55,9 +33,6 @@ It’s easy to use, lightweight, and works well for sharing state between steps 
 
 ## 🧪 Running Tests
 
-```bash
-<<<<<<< HEAD
+bash
+
 npm run test
-=======
-npm run test
->>>>>>> a441b68ec0dd6dc18dbe4922ec38d2c5b6bc0bfe
