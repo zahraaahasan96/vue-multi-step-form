@@ -1,14 +1,14 @@
 <template>
-    <div class="container text-center mt-5">
-      <h1 class="text-success mb-4">🎉 Congratulations!</h1>
-      <p class="lead">Your information has been submitted successfully.</p>
-      <p class="text-muted">We will get back to you soon.</p>
-  
-      <router-link to="/" class="btn btn-primary mt-4">
-        Back to register
-      </router-link>
-    </div>
-  </template>
+  <div class="container text-center mt-5">
+    <h1 class="text-success mb-4">🎉 تهانينا!</h1>
+    <p class="lead">تم إرسال معلوماتك بنجاح.</p>
+    <p class="text-muted">سنتواصل معك قريبًا.</p>
+
+    <router-link to="/" class="btn btn-primary mt-4">
+      العودة إلى التسجيل
+    </router-link>
+  </div>
+</template>
   
 
   
