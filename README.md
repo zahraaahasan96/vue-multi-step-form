@@ -12,3 +12,5 @@ This form demonstrates best practices in routing, state management, validation, 
 ```bash
 git clone https://github.com/zahraaahasan96/vue-multi-step-form.git
 cd vue-multi-step-form
+npm install
+npm run dev
